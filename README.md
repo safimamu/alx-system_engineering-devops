@@ -1,3 +1,3 @@
-# ALX SYSTEM ENGINEERING DEVOPS
+## ALX SYSTEM ENGINEERING DEVOPS
 
-This repository conyains some  projects involving system engineering and devops from ALX.
+This repository contains some  projects involving system engineering and devops from ALX.
