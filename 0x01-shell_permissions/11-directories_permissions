@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 111 soon late 
+chmod a+x ./* 
