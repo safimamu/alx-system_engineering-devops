@@ -1,13 +1,16 @@
-0-hello_world
-1-confused_smiley
-2-hellofile
-3-twofiles
-4-lastlines
-5-firstlines
-6-third_line
-7-file
-8-cwd_state
-\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
-iacta
-ls_cwd_content
-README.md
+total 48
+drwxr-xr-x 2 root root  279 Jun 27 11:30 .
+drwxr-xr-x 6 root root  138 Jun 27 05:21 ..
+-rwxr--r-- 1 root root   32 Jun 27 05:37 0-hello_world
+-rwxr--r-- 1 root root   28 Jun 27 06:34 1-confused_smiley
+-rwxr--r-- 1 root root   28 Jun 27 07:00 2-hellofile
+-rwxr--r-- 1 root root   39 Jun 27 06:52 3-twofiles
+-rwxr--r-- 1 root root   29 Jun 27 07:34 4-lastlines
+-rwxr--r-- 1 root root   29 Jun 27 07:36 5-firstlines
+-rwxr--r-- 1 root root   36 Jun 27 08:13 6-third_line
+-rwxr--r-- 1 root root   88 Jun 27 09:01 7-file
+-rwxr--r-- 1 root root   36 Jun 27 11:30 8-cwd_state
+-rw-r--r-- 1 root root   12 Jun 27 09:01 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root  193 Jun 27 08:09 iacta
+-rw-r--r-- 1 root root    0 Jun 27 11:32 ls_cwd_content
+-rw-r--r-- 1 root root 1528 Jun 27 08:20 README.md
