@@ -52,3 +52,17 @@ Your script file should contain maximum 64 characters
 ## Task 13: Floats
 Write a script that prints a number with two decimal places, followed by a new line. The number will be stored in the environment variable NUM.
 
+## Task 14: Decimal to Hexadecimal
+Write a script that converts a number from base 10 to base 16.
+The number in base 10 is stored in the environment variable DECIMAL
+The script should display the number in base 16, followed by a new line
+
+## Task 15: Everyone is a proponent of strong encryption
+Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
+
+## Task 16: The eggs of the brood need to be an odd number
+Write a script that prints every other line from the input, starting with the first line.
+
+## Task 17: I'm an instant star. Just add water and stir.
+Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
+WATER is in base water. STIR is in base stir. The result should be in base bestchol.
